@@ -1,6 +1,6 @@
 # npProject
 
-# *DABSTER**
+# *DABSTER*
 ![hello]( https://media.giphy.com/media/4CP58gxwbBy2Q/giphy.gif)
 
 **Type of challenge:** Consolidation
