@@ -20,11 +20,11 @@ You can subscribe wit your e-mail adress.
 # Techno
 
 Html  
-CSS 
-Javascript 
-Handlebars
-Node.js 
-and MongoDB.
+-CSS 
+-Javascript 
+-Handlebars
+-Node.js 
+-MongoDB.
 
 # Functionalities 
 Subscribe an e-mail adress
@@ -32,3 +32,7 @@ Online order (basket system)
 Product reviews
 API
 Contact form
+
+# Graphical chart
+
+Blanc, vert et noir
